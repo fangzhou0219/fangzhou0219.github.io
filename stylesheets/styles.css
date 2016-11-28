@@ -158,7 +158,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:200px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -224,7 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:800px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }
@@ -237,14 +237,14 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
